@@ -19,7 +19,11 @@ Some usefull/not so usefull stuff about me
 ## 🚀 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-Coming
+- [SysReptor: my new love](https://blindlystupid.com/2023/12/03/sysreptor-my-new-love/)
+- [ZeusCloud – Open Source Cloud Security](https://blindlystupid.com/2023/12/02/zeuscloud-open-source-cloud-security/)
+- [AI: let’s clarify some stuff](https://blindlystupid.com/2023/12/02/ai-lets-clarify-some-stuff/)
+- [Mental Space: a call for help](https://blindlystupid.com/2023/11/30/mental-space-a-call-for-help/)
+- [Happy Birthday Open Source World !](https://blindlystupid.com/2023/11/29/happy-birthday-open-source-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎧 Someone said Music ?
