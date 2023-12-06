@@ -19,11 +19,11 @@ Some usefull/not so usefull stuff about me
 ## 🚀 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How some corporations makes billions giving “free” services](https://blindlystupid.com/2023/12/06/how-some-corporations-makes-billions-giving-free-services/)
 - [Hyper + p10k = An amazing terminal !](https://blindlystupid.com/2023/12/06/hyper-p10k-an-amazing-terminal/)
 - [Nala: why i met you only now ?](https://blindlystupid.com/2023/12/05/nala-why-i-met-you-only-now/)
 - [SysReptor: my new love](https://blindlystupid.com/2023/12/03/sysreptor-my-new-love/)
 - [ZeusCloud – Open Source Cloud Security](https://blindlystupid.com/2023/12/02/zeuscloud-open-source-cloud-security/)
-- [AI: let’s clarify some stuff](https://blindlystupid.com/2023/12/02/ai-lets-clarify-some-stuff/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎧 Someone said Music ?
