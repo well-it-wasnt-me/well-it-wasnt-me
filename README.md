@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Antonio D'Angelo
+Hi ! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Antonio D'Angelo
 ========================================================================================================================================
 
 Seniore Developer & IT Security Specialist
@@ -18,7 +18,9 @@ Some usefull/not so usefull stuff about me
 * 🤯 A strange fact about me: I have a very weird sense of humor
 
 
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The+trouble+with+programmers+is+that+you+never+know+what+they+are+doing+until+it's+to+late&author=Seymour+Cray)](https://github.com/piyushsuthar/github-readme-quotes)
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The+trouble+with+programmers+is+that+you+never+know+what+they+are+doing+until+it's+to+late&author=Seymour+Cray)](#)
+
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Well%2C%20if%20an%20argument%20lasting%20more%20than%205%20minutes%20means%20both%20sides%20are%20wrong%2C%20then%20my%20conversations%20are%20like%20a%20PhD%20in%20being%20dead%20wrong%2C%20and%20I%E2%80%99m%20the%20professor&author=Me%2C%20replying%20to%20Neil%20deGrasse%20Tyson%20%28in%20my%20head%29)](#)
   
 ## Skills
 
