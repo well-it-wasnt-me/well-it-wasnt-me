@@ -14,7 +14,7 @@ Some usefull/not so usefull stuff about me
 * 🤯 A strange fact about me: I have a very weird sense of humor
 
 
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The+trouble+with+programmers+is+that;you+never+know+what+they+are+doing;until+it's+to+late&author=Seymour+Cray)](https://github.com/piyushsuthar/github-readme-quotes)
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The+trouble+with+programmers+is+that+you+never+know+what+they+are+doing+until+it's+to+late&author=Seymour+Cray)](https://github.com/piyushsuthar/github-readme-quotes)
   
 ## 🚀 Latest Blog Posts
 
