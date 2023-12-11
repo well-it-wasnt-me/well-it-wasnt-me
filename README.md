@@ -21,6 +21,9 @@ Some usefull/not so usefull stuff about me
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The+trouble+with+programmers+is+that+you+never+know+what+they+are+doing+until+it's+to+late&author=Seymour+Cray)](#)
 
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Well%2C%20if%20an%20argument%20lasting%20more%20than%205%20minutes%20means%20both%20sides%20are%20wrong%2C%20then%20my%20conversations%20are%20like%20a%20PhD%20in%20being%20dead%20wrong%2C%20and%20I%E2%80%99m%20the%20professor&author=Me%2C%20replying%20to%20Neil%20deGrasse%20Tyson%20%28in%20my%20head%29)](#)
+
+## Let's Meet !
+<a href="https://cal.com/antoniod/" target="_blank"><img width="64" height="auto" alt="meet_link" src="https://media.licdn.com/dms/image/D560BAQHqAF6vPlWZHA/company-logo_200_200/0/1666127204596/cal_com_logo?e=2147483647&v=beta&t=p6dALqC5Z3jd58MpWzHR_JkctLzjhfLzv-fmAH02jfc"></a>
   
 ## Skills
 
