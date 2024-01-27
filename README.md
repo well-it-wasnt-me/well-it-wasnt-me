@@ -34,11 +34,11 @@ Some usefull/not so usefull stuff about me
 ## 🚀 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ERR_NETWORK_CHANGE](https://blindlystupid.com/err_network_change/)
 - [Navigating the Comedy of Errors in the Digital Circus of Privacy and Personal Data](https://blindlystupid.com/navigating-the-comedy-of-errors-in-the-digital-circus-of-privacy-and-personal-data/)
 - [How some corporations makes billions giving “free” services](https://blindlystupid.com/how-some-corporations-makes-billions-giving-free-services/)
 - [Hyper + p10k = An amazing terminal !](https://blindlystupid.com/hyper-p10k-an-amazing-terminal/)
 - [Nala: why i met you only now ?](https://blindlystupid.com/nala-why-i-met-you-only-now/)
-- [SysReptor: my new love](https://blindlystupid.com/sysreptor-my-new-love/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎧 Someone said Music ?
