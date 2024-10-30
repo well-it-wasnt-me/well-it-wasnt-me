@@ -13,7 +13,7 @@ Some usefull/not so usefull stuff about me
 * 🖥️ Recently expanded my expertise in the Advertisement world
 * 🖥️ My skills are: cyber security, php, databases, angular, react
 * 🖨️ I write a lot of controversial stuff on my [blog](https://blindlystupid.com)
-* 🗺️ Italian, currently living in Split, Croatia
+* 🗺️ Italian, currently living in Dublin, Ireland
 * 🍺 ️My favourite poison is Guinness
 * 🤯 A strange fact about me: I have a very weird sense of humor
 
